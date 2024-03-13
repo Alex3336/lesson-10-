@@ -1,0 +1,18 @@
+.days > .tdays:hover{
+    color: red;
+}
+.tdnumber1 > .anumber1:focus{
+    color: deeppink;
+}
+.tdnumber2 > .anumber2:link{
+    color: green;
+}
+.number3 > .tdnumber3:nth-child(2n){
+    color: yellow;
+}
+.number4 > .tdnumber4:nth-child(-n+3){
+    color: blue;
+}
+.number5 > .tdnumber5:nth-child(odd){
+    color: purple;
+}

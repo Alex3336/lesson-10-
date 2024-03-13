@@ -1,0 +1,15 @@
+button:hover{ 
+    background-color: blueviolet;
+}
+#a:visited{ 
+    color: chocolate;
+}
+#u:visited{
+    color: forestgreen;
+}
+.inp1:checked{
+    color: aquamarine;
+}
+.inp2{
+    counter-reset: 1212px;
+}
